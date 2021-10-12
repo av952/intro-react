@@ -1,0 +1,26 @@
+[33m96129b9[m[33m ([m[1;36mHEAD -> [m[1;32mchanges[m[33m, [m[1;31morigin/changes[m[33m)[m change props for students rendering
+[33m4c70f5f[m bind addStudent to App
+[33m25d96da[m create addStudent method
+[33m507f9a8[m add a state variable for students
+[33m75f6105[m use a prop for the header
+[33m07330b4[m uncomment assignment rendering
+[33ma386100[m import list component
+[33m8a6be18[m add a header component
+[33m0f2cc53[m fix steps
+[33macb1b15[m remove step number
+[33m1e8a713[m fixing some stuff
+[33ma257943[m setting up changes to add
+[33mbdc7ce2[m Add license notice to README
+[33m15f81f9[m Add MIT License
+[33m73fc805[m bump up lodash dependency
+[33m103a954[m update README
+[33mf0365ff[m updated README
+[33mb49a0de[m updated README
+[33m91d342c[m added deployment link
+[33m4edce97[m fixed assignments typo
+[33m140b050[m updated README
+[33maa6f7fd[m removing comments
+[33m60b1d23[m adding gitignore
+[33mcb06862[m renamed App
+[33m5aedbeb[m fixed template
+[33meecdf58[m template
